@@ -21,15 +21,15 @@
 
     Input_2 : <input type="number" name="num2"> <br> -->
 
-    C++ : <input type="checkbox" name="programming[]" value="cplusplus"> <br>
+    C++ : <input type="radio" name="programming[]" value="cplusplus"> <br>
 
-    Java : <input type="checkbox" name="programming[]" value="java"> <br>
+    Java : <input type="radio" name="programming[]" value="java"> <br>
 
-    JavaScript : <input type="checkbox" name="programming[]" value="javaScript"> <br>
+    JavaScript : <input type="radio" name="programming[]" value="javaScript"> <br>
 
-    Go : <input type="checkbox" name="programming[]" value="go"> <br>
+    Go : <input type="radio" name="programming[]" value="go"> <br>
 
-    PHP : <input type="checkbox" name="programming[]" value="php"> <br>
+    PHP : <input type="radio" name="programming[]" value="php"> <br>
 
     <input type="submit">
   </form>
