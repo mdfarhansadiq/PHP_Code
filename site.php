@@ -39,14 +39,21 @@
   <?php
     //echo $_GET["name"];
 
-
     $ans = $_POST['programming'];
     for($i = 0; $i < count($ans); $i++)
     {
       echo "Array value: $ans[$i] <br>";
     }
 
+  ?>
 
+  <?php
+
+    function func($paramVariable)
+    {
+      return ("Hi! $paramVariable");
+    }
+    echo "<br>" . func("Farhan") . "<br>";
 
   ?>
 </body>
