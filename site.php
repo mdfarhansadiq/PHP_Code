@@ -56,5 +56,11 @@
     echo "<br>" . func("Farhan") . "<br>";
 
   ?>
+
+
+  <?php include
+
+
+   ?>
 </body>
 </html>
